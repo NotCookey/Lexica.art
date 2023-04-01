@@ -36,5 +36,11 @@ print(lex)
 - <b>guidanceScale: Default to `7`</b>
 - <b>portrait: Default to `True` (If set to `False` will generate a landscape image with ratio (768,512))</b>
 
+## Demo Web UI made using the API Wrapper
+<b>If you are interested feel free to check it out, [Aperture](https://aperture-sandy.vercel.app/)</b>
+
+![image](https://user-images.githubusercontent.com/88582190/229285825-0121336a-1470-44bd-a1df-50410de23345.png)
+
+
 ## Thank You
 - <b>I hope you found this useful, If you did consider giving it a star <3</b>
